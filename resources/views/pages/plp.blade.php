@@ -31,8 +31,8 @@
                             <h6 class="mb-20">Pick of The Month ⭐</h6>
                             <ul class="widget-nav-list">
                                 <li><a href="#">1. Berry Lit Pie</a></li>
-                                <li><a href="#">2. Croisant</a></li>
-                                <li><a href="#">3. Cupcake</a></li>
+                                <li><a href="#">2. Golden Swirl</a></li>
+                                <li><a href="#">3. Mini Mood Bombs</a></li>
                             </ul>
                         </div>
                     </div>
